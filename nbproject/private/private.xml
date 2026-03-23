@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/UC15%20-%20Etapa%203/RentGames/src/main.java</file>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/UC15%20-%20Etapa%203/RentGames/src/model/Jogo.java</file>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/UC15%20-%20Etapa%203/RentGames/src/model/Cliente.java</file>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/UC15%20-%20Etapa%203/RentGames/src/model/Usuario.java</file>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/UC15%20-%20Etapa%203/RentGames/src/model/Aluguel.java</file>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/UC15%20-%20Etapa%203/RentGames/src/model/Transacao.java</file>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/UC15%20-%20Etapa%203/RentGames/src/util/DataStore.java</file>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/UC15%20-%20Etapa%203/RentGames/src/view/LoginScreen.java</file>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/UC15%20-%20Etapa%203/RentGames/src/view/ForgotPasswordScreen.java</file>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/UC15%20-%20Etapa%203/RentGames/src/view/RegisterScreen.java</file>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/UC15%20-%20Etapa%203/RentGames/src/view/MainScreen.java</file>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/UC15%20-%20Etapa%203/RentGames/src/view/JogosPanel.java</file>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/UC15%20-%20Etapa%203/RentGames/src/view/CaixaPanel.java</file>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/UC15%20-%20Etapa%203/RentGames/src/view/ClientesPanel.java</file>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/UC15%20-%20Etapa%203/RentGames/src/view/UsuariosPanel.java</file>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/UC15%20-%20Etapa%203/RentGames/src/dao/Conexao.java</file>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/UC15%20-%20Etapa%203/RentGames/src/dao/JogoDAO.java</file>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/UC15%20-%20Etapa%203/RentGames/src/dao/UsuarioDAO.java</file>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/UC15%20-%20Etapa%203/RentGames/src/dao/ClienteDAO.java</file>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/UC15%20-%20Etapa%203/RentGames/src/dao/AluguelDAO.java</file>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/UC15%20-%20Etapa%203/RentGames/src/view/AlugueisPanel.java</file>
+            <file>file:/C:/Users/Nicolas/Documents/NetBeansProjects/UC15%20-%20Etapa%203/RentGames/src/dao/TransacaoDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
